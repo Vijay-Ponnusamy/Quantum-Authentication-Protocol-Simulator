@@ -16,8 +16,7 @@ It provides an intuitive GUI to experiment with protocol parameters, observe aut
 
 ## Key Features
 
- **BB84 Challenge-Response** – Simulates authentication using BB84 qubit encoding and sifting.  
- **Bell-Pair Entanglement Auth** – Demonstrates entanglement-based authentication with simplified Bell pairs.  
+ **BB84 Challenge-Response** – Simulates authentication using BB84 qubit encoding and sifting.    
  **Interactive Visualization** – Displays qubit bases, measurement outcomes, mismatch rates, and response tokens.  
  **User-Friendly Streamlit GUI** – Real-time interactive simulation of quantum authentication rounds.  
  **Report & Log Export** – Save simulation data, mismatch statistics, and response tokens.  
@@ -42,7 +41,7 @@ It provides an intuitive GUI to experiment with protocol parameters, observe aut
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/YourUsername/QuantumAuthenticationSimulator.git
+   git clone (https://github.com/Vijay-Ponnusamy/Quantum-Authentication-Protocol-Simulator)
    cd QuantumAuthenticationSimulator
 2. **Run the Simulator**
 
